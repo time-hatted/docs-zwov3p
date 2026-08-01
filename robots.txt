@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-cmyvs4.kujang138.site/sitemap.xml
